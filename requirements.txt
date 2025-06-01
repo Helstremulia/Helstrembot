@@ -1,2 +1,5 @@
-aiogram==3.0.0b7
+aiogram==2.25.1
+flatlib==0.2.0
 python-dotenv
+openai
+geopy
